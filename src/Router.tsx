@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import { DefaultLayout } from './layouts/DefaultLayout'
 import { History } from './page/History'
-import { Home } from './page/Home/Home'
+import { Home } from './page/Home'
 
 export function Router() {
   return (
